@@ -2,8 +2,8 @@
 <h2 align="center">𓀀𓀁𓀂𓀃𓀄𓀅𓀆𓀇𓀈𓀉𓀊𓀋𓀌𓀍𓀎𓀏𓀐𓀑𓀒𓀓𓀔𓀕𓀖𓀗𓀘𓀙𓀚𓀛𓀜𓀝𓀞𓀟𓀠𓀡𓀢𓀣𓀤𓀥𓀦𓀧𓀨𓀩𓀪𓀫𓀬𓀭</h2>
 
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=ABA2396&show_icons=true&theme=radical" alt="Charmve's Stats" >
+  <a href="https://github.com/ABA2396" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=ABA2396&show_icons=true&theme=radical" alt="ABA2396's Stats" >
   </a>
   <br><br>
   <a href="https://github.com/ABA2396">
