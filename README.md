@@ -9,9 +9,6 @@
   <a href="https://github.com/ABA2396">
     <img src="https://badges.pufler.dev/visits/ABA2396/ABA2396?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/ABA2396">
-    <img src="https://badges.pufler.dev/years/ABA2396?style=flat-square&color=black&logo=github">
-  </a>
   <a href="https://github.com/ABA2396?tab=repositories">
     <img src="https://badges.pufler.dev/repos/ABA2396?style=flat-square&color=black&logo=github">
   </a>
