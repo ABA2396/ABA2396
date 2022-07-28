@@ -5,16 +5,6 @@
   <a href="https://github.com/ABA2396" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=ABA2396&show_icons=true&theme=radical" alt="ABA2396's Stats" >
   </a>
-  <br><br>
-  <a href="https://github.com/ABA2396">
-    <img src="https://badges.pufler.dev/visits/ABA2396/ABA2396?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/ABA2396?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/ABA2396?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/ABA2396">
-    <img src="https://badges.pufler.dev/commits/monthly/ABA2396?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 <h2></h2>
 
