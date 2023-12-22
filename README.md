@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ABA2396" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=ABA2396&show_icons=true&theme=radical" alt="ABA2396's Stats" >
+    <img src="https://github-readme-stats-uyes-projects.vercel.app/api?username=ABA2396&show_icons=true&theme=radical" alt="ABA2396's Stats" >
   </a>
 </p>
 <h2></h2>
